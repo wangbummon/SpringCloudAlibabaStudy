@@ -1,0 +1,8 @@
+# Project exclude paths
+/book-service/target/
+/borrow-service/target/
+/code-generator/target/
+/common/target/
+/user-service/target/
+
+/**/rebel.xml
